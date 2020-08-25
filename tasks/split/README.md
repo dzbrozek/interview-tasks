@@ -1,4 +1,4 @@
-# Unique values
+# Split
 
 Implement split function without using default split method or regular expressions.
 
