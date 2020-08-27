@@ -1,4 +1,4 @@
-# Bunch of interview tasks from Python/JavaScript/React
+# Bunch of tasks from coding interviews in Python/JavaScript/React
 
 1. [Analyze logs (Python)](tasks/analyze-logs)
 1. [Analyze traceback (Python)](tasks/analyze-traceback)
