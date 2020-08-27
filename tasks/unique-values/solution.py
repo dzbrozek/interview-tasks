@@ -1,9 +1,7 @@
 from collections import Counter
 
-from typing import List, Any
 
-
-def unique_values(elements: List[Any]):
+def unique_values(elements):
     counter = Counter(elements)
 
     return [key for key, value in counter.items() if value == 1]

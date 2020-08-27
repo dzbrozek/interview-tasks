@@ -1,7 +1,6 @@
-from typing import List, Any
 
 
-def unique_values(elements: List[Any]):
+def unique_values(elements):
     # write body of a function that accepts list of elements
     # and returns list of element that appear only once in the list
     pass
