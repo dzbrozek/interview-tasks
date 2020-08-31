@@ -1,0 +1,28 @@
+# Widgets
+
+Create a basic system description and document a normalized schema from the attached widgets text file. Include 
+
+* what you think this system would do 
+* what you feel would be a reasonable database structure for the data and a reasonable architecture for the system 
+* any questions or concerns you have regarding this dataset/system that might need to be answered before establishing an ideal database/solution for such a system.
+
+It's a very open-ended problem, and that's part of the problem.
+
+```text
+widget	packaging	customer	price	supplier	cost	warehouse	qty	min_qty
+Ant Trap	bag of 10	Home Place	$9	Little Traps	$0.50	AUS	112	50
+Ant Trap	bag of 5	Home Place	$5	Little Traps	$0.50	AUS	112	50
+Ant Trap	bag of 10	Bug Store	$10	Little Traps	$0.50	AUS	112	50
+Ant Trap	bag of 5	Bug Store	$6	Little Traps	$0.50	AUS	112	50
+Mouse Trap	box of 2	Home Place	$5	Little Traps	$1	ATL	200	50
+Mouse Trap 	box of 1	Home Place	$3	Little Traps	$1	ATL	200	50
+Mouse Trap	bag of 10	Home Place	$20	Little Traps	$1	ATL	200	50
+Mouse Trap 	bag of 5	Bug Store	$15	Little Traps	$1	ATL	200	50
+Bear Trap	box of 1	Home Place	$50	Big Traps	$40	MSP	10	10
+Bear Trap	box of 5	Home Place	$220	Big Traps	$40	MSP	10	10
+Bear Trap 	box of 1	No Bears R Us	$60	Big Traps	$40	MSP	10	10
+Moose Trap	box of 1	Home Place	$75	Big Traps	$50	MSP	5	5
+Moose Trap	box of 1	No Bears R Us	$80	Big Traps	$50	MSP	5	5
+Elephant Trap	crate of 1	Home Place	$100	Raytheon	$90	MSP	3	5
+Elephant Trap	crate of 1	No Bears R Us	$110	Raytheon	$90	MSP 	3	5
+```

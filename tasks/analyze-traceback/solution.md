@@ -53,7 +53,7 @@ Problem 8
 
 * **Problem**: adding string and number
 * **First line to look:**: `File "stack_traces.py", line 26, in calc_dict`
-* **Possible cause**: value for key 'two' is string so adding fails
+* **Possible cause**: value for key 'two' is string where value of key 'one' is int so adding them together fails
 
 Problem 9
 ===================
