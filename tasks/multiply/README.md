@@ -1,4 +1,4 @@
-# HTML decorator
+# Multiply decorator
 
 Create a python decorator that multiples output of the function
 
