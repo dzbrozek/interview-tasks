@@ -14,3 +14,4 @@
 12. [The Sims clock (React)](tasks/the-sims-clock)
 13. [Fetch posts with most recent comments (Django)](tasks/most-recent-posts-and-comments)
 14. [Class fields (Python)](tasks/class-fields)
+15. [Optimize queries (Django)](tasks/optimize-queries)
