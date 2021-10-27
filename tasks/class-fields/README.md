@@ -1,4 +1,4 @@
-# Analyze tasks
+# Class fields
 
 Predict behaviour of class fields
 
